@@ -1,6 +1,6 @@
 # Repositório
 
-Este repositório é destinado a um App feito em Javascript, tendo em vista sua utilização em gerencia de To-Do (Lista de afazeres).
+Este repositório é destinado a um App feito em Javascript, tendo em vista sua utilização em gerencia de To-Do (Lista de afazeres). Além disso, a base para o desenvolvimento deste App foi o curso https://www.udemy.com/modern-javascript/.
 
 Sua utilização é feita por intermédio de scripts que rodam webpack e babel para compilação de código em Javascript (principalmente ES6>).
 
